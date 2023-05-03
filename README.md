@@ -1,5 +1,5 @@
 #ecommerce is an interactive all in one online shopping platform which enables users to buys stuffs of different categories.This overcomes the problem of user searchinf #multiple websites in order to buy differwnt commodities.The user here is given freedom to buy whatever he want and a diversified category set is provided to the user #from where he can choose according to his need.
-
+Code attached in master branch
 #Page 1: Login:
 #Enables registered users to login and unregistered users to register on the site.![firstpage](https://user-images.githubusercontent.com/132460980/235976370-07fd708a-d964-41b6-8d5e-8037d0bf9c34.jpg)
 #page2 : Register opens a new page for new customers here they enter basic details with an image file of them:
